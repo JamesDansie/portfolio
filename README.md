@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 ### Author James Dansie
 This is my portfolio site (also CF 301 lab-04).
 
