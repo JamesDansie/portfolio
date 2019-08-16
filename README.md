@@ -20,8 +20,20 @@ Number and name of feature: Build out base.css
 
 Estimate of time needed to complete: 1 hour
 
-Start time: _____
+Start time: 10:00
 
-Finish time: _____
+Finish time: 11:10
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1:10
+
+---
+
+Number and name of feature: Customizing content
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 10:00
+
+Finish time: 11:10
+
+Actual time needed to complete: 1:10

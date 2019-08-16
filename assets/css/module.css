@@ -515,7 +515,8 @@ button,
 
     #main > section.one {
       background-color: #81918E;
-      background-image: url("../../images/banner.jpg");
+      /* Photo by NASA on Unsplash */
+      background-image: url("../../images/nasa-Q1p7bh3SHj8-unsplash.jpg");
     }
 
     #main > section.two {
